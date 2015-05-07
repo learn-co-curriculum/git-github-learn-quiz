@@ -1,0 +1,11 @@
+git clone
+Forking it via the GitHub interface.
+git push
+git status
+git add
+By committing the staged changes with git commit
+git add .
+git commit -m "I'm coding"
+git commit -am "I'm coding"
+By creating a Pull Request through the GitHub interface
+Staging your commits with git add
