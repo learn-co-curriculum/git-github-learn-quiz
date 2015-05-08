@@ -39,7 +39,7 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 ( ) `git add`
 ( ) `git reset`
 
-?: How do you create a new version of your code?
+?: How do you save the current state of your code into the git version control?
 
 ( ) By committing the staged changes with `git commit`
 ( ) By adding all changes and staging them with  `git stage`
