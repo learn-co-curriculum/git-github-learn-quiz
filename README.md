@@ -25,7 +25,7 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 ( ) `git upload`
 ( ) `git status`
 
-?: How do you check what the state and differences of your local git repository are since your last commit?
+?: How do you check the state of your local git repository since your last commit?
 
 ( ) `git check`
 ( ) `git status`
