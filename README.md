@@ -8,19 +8,19 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 
 ( ) `git push`
 ( ) `git fork`
-( ) `git clone`
+(X) `git clone`
 ( ) `git commit`
 
 ?: How do you create a copy of a lab under your own GitHub account so that you can solve the lab?
 
-( ) Forking it via the GitHub interface.
+(X) Forking it via the GitHub interface.
 ( ) `git fork`
 ( ) `git clone`
 ( ) `git pull-request`
 
 ?: What's the opposite of `git clone`, instead of downloading your code from GitHub, uploads your changes and code back to GitHub?
 
-( ) `git push`
+(X) `git push`
 ( ) `git add`
 ( ) `git upload`
 ( ) `git status`
@@ -28,7 +28,7 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 ?: How do you check the state of your local git repository since your last commit?
 
 ( ) `git check`
-( ) `git status`
+(X) `git status`
 ( ) `git commit`
 ( ) `git diff`
 
@@ -36,12 +36,12 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 
 ( ) `git stage`
 ( ) `git commit`
-( ) `git add`
+(X) `git add`
 ( ) `git reset`
 
 ?: How do you save the current state of your code into the git version control?
 
-( ) By committing the staged changes with `git commit`
+(X) By committing the staged changes with `git commit`
 ( ) By adding all changes and staging them with  `git stage`
 ( ) By adding all changes and staging them with  `git add`
 ( ) By creating a new commit with `git init`
@@ -50,7 +50,7 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 
 ( ) `git commit add .`
 ( ) `git commit .`
-( ) `git add .`
+(X) `git add .`
 ( ) `git push -am "Message"`
 
 ?: How do you supply a commit message to a commit?
@@ -58,25 +58,25 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 ( ) `git message "I'm coding"`
 ( ) `git add "I'm coding"`
 ( ) `git commit "I'm coding"`
-( ) `git commit -m "I'm coding"`
+(X) `git commit -m "I'm coding"`
 
 ?: What is the correct commit syntax for all changes with a message?
 
 ( ) `git message -am "I'm coding"`
 ( ) `git add -a "I'm coding"`
 ( ) `git commit -a "I'm coding"`
-( ) `git commit -am "I'm coding"`
+(X) `git commit -am "I'm coding"`
 
 ?: How do you submit a solution to Learn?
 
 ( ) `git submit`
 ( ) `git pull-request`
-( ) By creating a Pull Request through the GitHub interface
+(X) By creating a Pull Request through the GitHub interface
 ( ) `git commit -am "Done with Lab"`
 
 ?: What comes first, staging with `git add .` or committing with `git commit`?
 
-( ) Staging your commits with `git add`
+(X) Staging your commits with `git add`
 ( ) Committing with `git commit`
 
 ???
