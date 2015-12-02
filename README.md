@@ -80,3 +80,5 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 ( )Committing with `git commit`
 
 ???
+
+<a href='https://learn.co/lessons/git-github-learn-quiz' data-visibility='hidden'>View this lesson on Learn.co</a>
