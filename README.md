@@ -81,4 +81,4 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 
 ???
 
-<a href='https://learn.co/lessons/git-github-learn-quiz' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-github-learn-quiz' title='Take the quiz below to make sure you're familiar with the crucial git commands and workflows to interact with GitHub and Learn'>Take the quiz below to make sure you're familiar with the crucial git commands and workflows to interact with GitHub and Learn</a> on Learn.co and start learning to code for free.</p>
