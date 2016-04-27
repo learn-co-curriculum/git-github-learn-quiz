@@ -1,8 +1,10 @@
-Take the quiz below to make sure you're familiar with the crucial git commands and workflows to interact with GitHub and Learn
+# Enough Git for Learn
+
+Take the quiz below to make sure you're familiar with the crucial git commands and workflows to interact with GitHub and Learn.
 
 ???
 
-# Enough Git for Learn
+# Quiz - Enough Git for Learn
 
 ?: What's the git command that downloads your repository from GitHub to your computer?
 
@@ -81,4 +83,4 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 
 ???
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-github-learn-quiz' title='Take the quiz below to make sure you're familiar with the crucial git commands and workflows to interact with GitHub and Learn'>Take the quiz below to make sure you're familiar with the crucial git commands and workflows to interact with GitHub and Learn</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-github-learn-quiz' title='Enough Git For Learn'>Enough Git For Learn</a> on Learn.co and start learning to code for free.</p>
