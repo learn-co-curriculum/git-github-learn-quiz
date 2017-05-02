@@ -71,12 +71,13 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 ( )`git commit -a "I'm coding"`
 (X)`git commit -am "I'm coding"`
 
-?: How do you submit a solution to Learn?
+?: How do you submit a solution to Learn? (select all that apply)
 
-( )`git submit`
-( )`git pull-request`
-(X)By creating a Pull Request through the GitHub interface
-( )`git commit -am "Done with Lab"`
+[ ] `git submit`
+[ ] `git pull-request`
+[X] By creating a Pull Request through the GitHub interface
+[ ] `learn submit`
+[ ] `git commit -am "Done with Lab"`
 
 ?: What comes first, staging with `git add .` or committing with `git commit`?
 
@@ -86,3 +87,5 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 ???
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-github-learn-quiz' title='Enough Git For Learn'>Enough Git For Learn</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/git-github-learn-quiz'>Git Quiz</a> on Learn.co and start learning to code for free.</p>
