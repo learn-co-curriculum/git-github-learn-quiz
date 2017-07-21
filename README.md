@@ -76,7 +76,7 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 [ ] `git submit`
 [ ] `git pull-request`
 [X] By creating a Pull Request through the GitHub interface
-[ ] `learn submit`
+[X] `learn submit`
 [ ] `git commit -am "Done with Lab"`
 
 ?: What comes first, staging with `git add .` or committing with `git commit`?
